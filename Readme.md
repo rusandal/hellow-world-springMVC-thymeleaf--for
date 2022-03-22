@@ -9,5 +9,5 @@
 Get
 ```http://localhost:8080/hello?name=Mike&surname=Tyson```
 
-ResponseBody
+Response (Thymeleaf)
 ```Hello world!!!Hello Mike Tyson```
